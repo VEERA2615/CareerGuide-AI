@@ -1,0 +1,4 @@
+ML Engineer. ML Engineers train, deploy and maintain machine learning models in production.
+Required skills: Python, Machine Learning, Deep Learning, PyTorch or TensorFlow, SQL, Git, Docker, MLOps, FastAPI, cloud basics (AWS or GCP).
+Roadmap: Month 1 Python and math basics. Month 2 Machine Learning. Month 3 Deep Learning. Month 4 Docker, FastAPI, model deployment. Month 5 MLOps and cloud.
+Projects: image classifier API, deployed recommendation model, ML pipeline with monitoring.

@@ -1,0 +1,4 @@
+Software Engineer. Software Engineers design, build and test applications.
+Required skills: Data Structures and Algorithms, Python or Java or JavaScript, Git, SQL, REST APIs, System Design basics, Testing, Docker.
+Roadmap: Month 1 One language and DSA. Month 2 Git, SQL, databases. Month 3 Web backend and REST APIs. Month 4 Frontend basics and testing. Month 5 System design and projects.
+Projects: full-stack web app, REST API with database, task manager with login.

@@ -1,0 +1,4 @@
+Data Scientist. Data Scientists analyse data to find patterns and build predictive models.
+Required skills: Python, SQL, Statistics, Pandas, NumPy, Data Visualization, Machine Learning, Scikit-learn, Excel, Tableau or Power BI.
+Roadmap: Month 1 Python and SQL. Month 2 Statistics and Pandas. Month 3 Data visualization. Month 4 Machine Learning. Month 5 End-to-end projects and portfolio.
+Projects: sales forecasting, customer churn prediction, EDA dashboard.

@@ -1,0 +1,4 @@
+AI Engineer. AI Engineers build applications powered by machine learning and large language models.
+Required skills: Python, SQL, Git, Machine Learning, Deep Learning, PyTorch, LLMs, prompt engineering, RAG, vector databases, FastAPI, Docker.
+Roadmap: Month 1 Python, NumPy, Pandas. Month 2 Machine Learning and Scikit-learn. Month 3 Deep Learning and PyTorch. Month 4 LLMs, RAG, AI agents. Month 5 build projects.
+Projects: RAG chatbot over PDFs, document Q&A app, AI agent with tools.
