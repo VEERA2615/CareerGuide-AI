@@ -5,7 +5,7 @@ import {
   RefreshCw, Send, Sparkles, Target, Trash2, Upload, X, Zap
 } from "lucide-react";
 
-const API = "http://localhost:8000";
+const API = import.meta.env.VITE_API_URL;
 
 const fallbackCareers = [
   "Data Analyst", "Business Analyst", "Data Scientist",
